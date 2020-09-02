@@ -7,11 +7,6 @@ import android.view.Window.*;
 
 public class MainActivity extends Activity
 {
-	String strClave;
-	
-	Button btnUsuarios,btnClientes,btnProveedores,btnProductos;
-	Button btnVentasGest,btnComprasGest,btnSesionGest;
-	Button btnConsultas;
 	String strEstado,strNivel;
 	String strIdUsu,strNombreUsu;
 	String strClave;
