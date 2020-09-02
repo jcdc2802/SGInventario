@@ -15,7 +15,7 @@ public class MainActivity extends Activity
         	super.onCreate(savedInstanceState);
         	setContentView(R.layout.main);
 		
-		//setContentView(R.layout.inicio_fragment);
+			setContentView(R.layout.inicio_fragment);
 	 }
 	
 	
